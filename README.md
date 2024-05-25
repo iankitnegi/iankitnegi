@@ -1,4 +1,4 @@
-# Hello, I'm Ankit Negi 🚀  
+# Hello, I'm Ankit Negi👋   
 Welcome to my GitHub profile! I'm on a journey to become a Data Analyst specializing in Machine Learning. 🌟  
 
 
@@ -12,9 +12,9 @@ Aspiring Data Analyst with a passion for numbers and data visualization, looking
 ## Goals
 My goal is to combine my analytical skills with machine learning techniques to create predictive models that solve real-world problems. 🌍
 
-Let's Connect!  
-📧 Email: ankitnegi996@rocketmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/iankitnegi/  
-🐦 Twitter: https://x.com/rajputankitnegi  
+Let's Connect! 📧💼🐦  
+[Email](ankitnegi996@rocketmail.com)   
+[LinkedIn](https://www.linkedin.com/in/iankitnegi/)  
+[Twitter](https://x.com/rajputankitnegi)   
 
 Let's explore the world of data together! Feel free to reach out—I'm always open to new opportunities and collaborations. 🚀
