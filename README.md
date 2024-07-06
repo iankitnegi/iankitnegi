@@ -10,11 +10,11 @@ Aspiring Data Analyst with a passion for numbers and data visualization, looking
 🌱 Currently learning Python to advance my skills in data analysis and machine learning.  
 
 ## Goals
-My goal is to combine my analytical skills with machine learning techniques to create predictive models that solve real-world problems 🌍    
+My goal is to utilize my analytical skills to make data-driven decisions based on mathematical principles, starting as a data analyst and progressing towards expertise in machine learning, creating impactful solutions along the way.🌍    
 
 ## Projects  
 **[ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
-**Description**: Developed a report using MySQL to find out the performance of products, identify trends, areas and distinct customer groups.  
+**Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
 **Tools**: SQL, MySQL    
 **Domain**: Cosumer Goods   
 **Key Features**: 
@@ -23,11 +23,20 @@ My goal is to combine my analytical skills with machine learning techniques to c
 
 **[CREDIT CARD RECOMMENDATION](https://github.com/iankitnegi/PowerBI_Banking_Project)**  
 **Description**: Developed a comprehensive analysis dashboard using Power BI to visualize usage, identify trends, and uncover insights.  
-**Tools**: MS-Excel, Power BI    
+**Tools**: Power BI, MS-Excel      
 **Domain**: Banking  
 **Key Features:** 
 1. Demographic classification / Spending Insights
 2. Credit Card Feature Recommendations
+
+**[SALES & FINANCE ANALYSIS](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
+**Description**:    
+**Tools**: MS-Excel  
+**Domain**: Sales  
+**Key Features**:  
+1.
+2.
+
 
 Let's Connect!   
 📧 [Email](ankitnegi996@rocketmail.com)   
