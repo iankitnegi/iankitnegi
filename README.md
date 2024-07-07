@@ -14,29 +14,29 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 ## Projects  
 **[ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
+**Domain**: Cosumer Goods   
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
 **Tools**: SQL, MySQL    
-**Domain**: Cosumer Goods   
 **Key Features**: 
-1. Interactive visualizations for sales data
-2. Monthly and yearly sales comparisons   
+1. 
 
 **[CREDIT CARD RECOMMENDATION](https://github.com/iankitnegi/PowerBI_Banking_Project)**  
+**Domain**: Banking  
 **Description**: Developed a comprehensive analysis dashboard using Power BI to visualize usage, identify trends, and uncover insights.  
 **Tools**: Power BI, MS-Excel      
-**Domain**: Banking  
 **Key Features:** 
 1. Demographic classification / Spending Insights
 2. Credit Card Feature Recommendations
 
 **[SALES & FINANCE ANALYSIS](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
+**Domain**: Sales  
 **Description**:    
 **Tools**: MS-Excel  
-**Domain**: Sales  
 **Key Features**:  
-1.
-2.
+1. Reports based upon the template provide by stakeholders.
+2. Monthly and yearly sales comparisons  
 
+**[MORE PROJECTS](https://github.com/iankitnegi?tab=repositories)**
 
 Let's Connect!   
 📧 [Email](ankitnegi996@rocketmail.com)   
