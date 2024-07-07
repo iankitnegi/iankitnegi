@@ -10,8 +10,10 @@ Aspiring Data Analyst with a passion for numbers and data visualization, looking
 📈 Practicing MySQL for data management and querying.  
 🌱 Currently learning Python to advance my skills in data analysis and machine learning.  
 
+
 ## Goals
 My goal is to utilize my analytical skills to make data-driven decisions based on mathematical principles, starting as a data analyst and progressing towards expertise in machine learning, creating impactful solutions along the way.🌍    
+
 
 ## Projects  
 **[ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
@@ -19,24 +21,25 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
 **Technologies**: SQL, MySQL, Joins, Subqueries, CTE    
 **Key Features**:   
-1. 
-2.  
+1. Wrote complex SQL queries for data extraction & analysis.
+2. Optimized SQL queries for improve performance and efficiency.
 
 **[CREDIT CARD RECOMMENDATION](https://github.com/iankitnegi/PowerBI_Banking_Project)**  
 **Domain**: Banking  
-**Description**: Developed a comprehensive analysis dashboard using Power BI to visualize usage, identify trends, and uncover insights.  
+**Description**: Developed a comprehensive analysis dashboard using Power BI to visualize usage, identify trends, patterns and uncover insights.  
 **Technologies**: Power BI, Power Query, DAX        
 **Key Features:** 
 1. Demographic classification / Spending Insights
 2. Credit Card Feature Recommendations
 
-**[SALES & FINANCE ANALYSIS](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
+**[SALES & FINANCE REPORT](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
 **Domain**: Sales  
-**Description**:    
+**Description**: Created detailed reports using MS-Excel, including Pivot Tables and Power Pivot, to provide monthly and yearly sales comparisons.      
 **Technologies**: MS-Excel, Pivot Table, Power Pivot    
 **Key Features**:  
 1. Reports based upon the template provide by stakeholders.
 2. Monthly and yearly sales comparisons  
+
 
 ## Let's Connect!   
 📧 [Email](ankitnegi996@rocketmail.com)   💼 [LinkedIn](https://www.linkedin.com/in/iankitnegi/)  📚 [Portfolio](https://codebasics.io/portfolio/Ankit-Negi)  🐦 [Twitter](https://x.com/rajputankitnegi)   ▶️ [YouTube](https://www.youtube.com/@rajputankitnegi)  🧩 [Kaggle](https://www.kaggle.com/rajputankitnegi)  
