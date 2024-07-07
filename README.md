@@ -17,7 +17,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 **[ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
 **Domain**: Cosumer Goods   
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
-**Tools**: SQL, MySQL    
+**Technologies**: SQL, MySQL, Joins, Subqueries, CTE    
 **Key Features**:   
 1. 
 2.  
@@ -25,7 +25,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 **[CREDIT CARD RECOMMENDATION](https://github.com/iankitnegi/PowerBI_Banking_Project)**  
 **Domain**: Banking  
 **Description**: Developed a comprehensive analysis dashboard using Power BI to visualize usage, identify trends, and uncover insights.  
-**Tools**: Power BI, MS-Excel      
+**Technologies**: Power BI, Power Query, DAX        
 **Key Features:** 
 1. Demographic classification / Spending Insights
 2. Credit Card Feature Recommendations
@@ -33,12 +33,10 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 **[SALES & FINANCE ANALYSIS](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
 **Domain**: Sales  
 **Description**:    
-**Tools**: MS-Excel  
+**Technologies**: MS-Excel, Pivot Table, Power Pivot    
 **Key Features**:  
 1. Reports based upon the template provide by stakeholders.
 2. Monthly and yearly sales comparisons  
-
-**[VIEW MORE](https://github.com/iankitnegi?tab=repositories)**
 
 ## Let's Connect!   
 📧 [Email](ankitnegi996@rocketmail.com)   💼 [LinkedIn](https://www.linkedin.com/in/iankitnegi/)  📚 [Portfolio](https://codebasics.io/portfolio/Ankit-Negi)  🐦 [Twitter](https://x.com/rajputankitnegi)   ▶️ [YouTube](https://www.youtube.com/@rajputankitnegi)  🧩 [Kaggle](https://www.kaggle.com/rajputankitnegi)  
