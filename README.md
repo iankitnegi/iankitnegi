@@ -3,16 +3,16 @@ Welcome to my GitHub profile!
 I'm on a journey to become a Data Analyst specializing in Machine Learning. 🌟  
 
 
-### About Me  
-Aspiring Data Analyst with a passion for numbers and data visualization, looking to align my career with Machine Learning. 📊✨  
-🧮 I love playing with numbers and enjoy the intricacies of mathematics.  
-📊 Experienced in Power BI and Excel for insightful data visualization.  
-📈 Practicing MySQL for data management and querying.  
-🌱 Currently learning Python to advance my skills in data analysis and machine learning.  
+### About Me 😇  
+Aspiring Data Analyst with a passion for numbers and data visualization, looking to align my career with Machine Learning.  
+- I love playing with numbers and enjoy the intricacies of mathematics.
+- Experienced in Power BI and Excel for insightful data visualization.
+- Practicing MySQL for data management and querying.
+- Currently learning Python to advance my skills in data analysis and machine learning.  
 
 
-## Goals
-My goal is to utilize my analytical skills to make data-driven decisions based on mathematical principles, starting as a data analyst and progressing towards expertise in machine learning, creating impactful solutions along the way.🌍    
+## Goals 🌏
+My goal is to utilize my analytical skills to make data-driven decisions based on mathematical principles, starting as a data analyst and progressing towards expertise in machine learning, creating impactful solutions along the way.    
 
 
 ## Skills 💪  
@@ -23,7 +23,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 - **Data Quality & Integrity**: Committed to performing thorough data quality assessments and stress tests to guarantee reliable and trustworthy data.
 
 
-## Projects  
+## Projects   
 **🖋️ [ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
 **Domain**: Cosumer Goods   
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
