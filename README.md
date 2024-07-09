@@ -15,8 +15,16 @@ Aspiring Data Analyst with a passion for numbers and data visualization, looking
 My goal is to utilize my analytical skills to make data-driven decisions based on mathematical principles, starting as a data analyst and progressing towards expertise in machine learning, creating impactful solutions along the way.🌍    
 
 
+## Skills 💪  
+- **Data Collection & Cleaning**: Proficient in collecting, cleansing, and organizing data from diverse sources, including databases, spreadsheets, and external systems. Ensuring high data quality and integrity.
+- **Data & Statistical Analysis**: Skilled in analyzing data using statistical techniques and data mining to identify trends, patterns, and actionable insights.
+- **Reporting & Visualization**: Skilled in creating compelling reports, dashboards, and visualizations using Power BI and Excel to make complex information clear and support informed decision-making.
+- **Problem Solving & Critical Thinking**: Use data-driven approaches to solve business problems, optimize processes, and make data-informed decisions.
+- **Data Quality & Integrity**: Committed to performing thorough data quality assessments and stress tests to guarantee reliable and trustworthy data.
+
+
 ## Projects  
-**🖋️[ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
+**🖋️ [ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
 **Domain**: Cosumer Goods   
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
 **Technologies**: SQL, MySQL, Joins, Subqueries, CTE    
@@ -24,7 +32,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 1. Wrote complex SQL queries for data extraction & analysis.
 2. Optimized SQL queries for improve performance and efficiency.
 
-**💳[CREDIT CARD RECOMMENDATION](https://github.com/iankitnegi/PowerBI_Banking_Project)**  
+**💳 [CREDIT CARD RECOMMENDATION](https://github.com/iankitnegi/PowerBI_Banking_Project)**  
 **Domain**: Banking  
 **Description**: Developed a comprehensive analysis dashboard using Power BI to visualize usage, identify trends, patterns and uncover insights.  
 **Technologies**: Power BI, Power Query, DAX        
@@ -32,7 +40,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 1. Demographic classification / Spending Insights
 2. Credit Card Feature Recommendations
 
-**🖱️[SALES & FINANCE REPORT](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
+**🖱 [SALES & FINANCE REPORT](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
 **Domain**: Sales  
 **Description**: Created detailed reports using MS-Excel, including Pivot Tables and Power Pivot, to provide monthly and yearly sales comparisons.      
 **Technologies**: MS-Excel, Pivot Table, Power Pivot    
