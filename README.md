@@ -52,6 +52,6 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 **🧑‍🤝‍🧑[HR ANALYTICS](https://github.com/iankitnegi/HR_Analytics)**
 
 ## Let's Connect!   
-📧 [Email](ankitnegi996@rocketmail.com)   💼 [LinkedIn](https://www.linkedin.com/in/iankitnegi/)  📚 [Portfolio](https://codebasics.io/portfolio/Ankit-Negi)  🐦 [Twitter](https://x.com/rajputankitnegi)   ▶️ [YouTube](https://www.youtube.com/@rajputankitnegi)  🧩 [Kaggle](https://www.kaggle.com/rajputankitnegi)  
+📧 [Email](ankitnegi996@rocketmail.com)   💼 [LinkedIn](https://www.linkedin.com/in/iankitnegi/)  📚 [Portfolio](https://codebasics.io/portfolio/Ankit-Negi)  🐦 [Twitter](https://x.com/rajputankitnegi)   ▶️ [YouTube](https://www.youtube.com/@rajputankitnegi)  🧩 [Kaggle](https://www.kaggle.com/rajputankitnegi)  🪀[Tableau](https://public.tableau.com/app/profile/ankit.negi7687/vizzes)
 
 Let's explore the world of data together! Feel free to reach out—I'm always open to new opportunities and collaborations. 🚀
