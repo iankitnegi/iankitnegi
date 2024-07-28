@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 I'm on a journey to become a Data Analyst specializing in Machine Learning. 🌟  
 
 
-### About Me 😇  
+## About Me 😇  
 Aspiring Data Analyst with a passion for numbers and data visualization, looking to align my career with Machine Learning.  
 - I love playing with numbers and enjoy the intricacies of mathematics.
 - Experienced in Power BI and Excel for insightful data visualization.
@@ -23,7 +23,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 - **Data Quality & Integrity**: Committed to performing thorough data quality assessments and stress tests to guarantee reliable and trustworthy data.
 
 
-## Projects   
+## Projects 📚   
 **🖋️ [ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
 **Domain**: Cosumer Goods   
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
@@ -49,7 +49,16 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 2. Monthly and yearly sales comparisons
 
 **🍕[PIZZA SALES](https://github.com/iankitnegi/SQL_Pizza_Sales_Project)**
-**🧑‍🤝‍🧑[HR ANALYTICS](https://github.com/iankitnegi/HR_Analytics)**
+**🧑‍🤝‍🧑[HR ANALYTICS](https://github.com/iankitnegi/HR_Analytics)**  
+
+## Languages & Tools 🔪  
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  /> <img width="9" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  /> <img width="9" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  /> <img width="9" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="25" alt="numpy logo"  /> <img width="9" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="25" alt="pandas logo"  /> <img width="9" />
+</div>
 
 ## Let's Connect!   
 📧 [Email](ankitnegi996@rocketmail.com)   💼 [LinkedIn](https://www.linkedin.com/in/iankitnegi/)  📚 [Portfolio](https://codebasics.io/portfolio/Ankit-Negi)  🐦 [Twitter](https://x.com/rajputankitnegi)   ▶️ [YouTube](https://www.youtube.com/@rajputankitnegi)  🧩 [Kaggle](https://www.kaggle.com/rajputankitnegi)  🪀[Tableau](https://public.tableau.com/app/profile/ankit.negi7687/vizzes)
