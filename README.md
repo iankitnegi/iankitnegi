@@ -51,7 +51,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 **🍕[PIZZA SALES](https://github.com/iankitnegi/SQL_Pizza_Sales_Project)**
 **🧑‍🤝‍🧑[HR ANALYTICS](https://github.com/iankitnegi/HR_Analytics)**  
 
-## Languages & Tools 🔪  
+## Languages/Tools 🔪  
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  /> <img width="9" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  /> <img width="9" />
@@ -60,7 +60,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="25" alt="pandas logo"  /> <img width="9" />
 </div>
 
-## Let's Connect!   
+## Let's Connect 🤝   
 📧 [Email](ankitnegi996@rocketmail.com)   💼 [LinkedIn](https://www.linkedin.com/in/iankitnegi/)  📚 [Portfolio](https://codebasics.io/portfolio/Ankit-Negi)  🐦 [Twitter](https://x.com/rajputankitnegi)   ▶️ [YouTube](https://www.youtube.com/@rajputankitnegi)  🧩 [Kaggle](https://www.kaggle.com/rajputankitnegi)  🪀[Tableau](https://public.tableau.com/app/profile/ankit.negi7687/vizzes)
 
 Let's explore the world of data together! Feel free to reach out—I'm always open to new opportunities and collaborations. 🚀
