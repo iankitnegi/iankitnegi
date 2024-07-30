@@ -24,6 +24,14 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 
 ## Projects 📚   
+**🤯 [EXPLORATORY DATA ANALYSIS](https://github.com/iankitnegi/Python_Projects)**  
+**Domain**: Hospitality  
+**Description**: Performed data analysis on Hotels dataset using pandas in Python to uncover booking patterns and revenue insights.  
+**Technologies**: Python, Pandas, Numpy  
+**Key Features**:  
+1. Identified the revenue contributions of different booking platforms, enabling targeted marketing and resource allocation.
+2. Uncovered seasonal booking patterns, allowing for strategic pricing adjustments and promotional planning during peak periods.
+
 **🖋️ [ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
 **Domain**: Cosumer Goods   
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
