@@ -25,6 +25,14 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 
 ## Projects 📚   
+**🛵 [MARKET RESEARCH ANALYSIS](https://github.com/iankitnegi/Tableau_EV_Project)**  
+**Domain**: Automotive   
+**Description**: Conduct ad hoc market research for AtliQ Motors in the EV/Hybrid Vehicles Industry for data-driven decisions.  
+**Technologies**: Tableau, MS-Excel   
+**Key Features**:  
+1. Identified the revenue contributions of different booking platforms, enabling targeted marketing and resource allocation.
+2. Uncovered seasonal booking patterns, allowing for strategic pricing adjustments and promotional planning during peak periods.
+
 **🤯 [EXPLORATORY DATA ANALYSIS](https://github.com/iankitnegi/Python_Projects)**  
 **Domain**: Hospitality  
 **Description**: Performed data analysis on Hotels dataset using pandas in Python to uncover booking patterns and revenue insights.  
