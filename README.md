@@ -30,8 +30,8 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 **Description**: Conduct ad hoc market research for AtliQ Motors in the EV/Hybrid Vehicles Industry for data-driven decisions.  
 **Technologies**: Tableau, MS-Excel   
 **Key Features**:  
-1. Identified the revenue contributions of different booking platforms, enabling targeted marketing and resource allocation.
-2. Uncovered seasonal booking patterns, allowing for strategic pricing adjustments and promotional planning during peak periods.
+1. Ola Electric led the 2-wheeler EV market in FY 2023-2024 with 1.58M units sold; Goa tops 2-wheeler EV adoption at 17.99%.
+2. Karnataka surpassed Delhi in 2024 EV sales and penetration, driven by favorable policies.
 
 **🤯 [EXPLORATORY DATA ANALYSIS](https://github.com/iankitnegi/Python_Projects)**  
 **Domain**: Hospitality  
