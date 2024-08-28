@@ -1,4 +1,5 @@
- ![Data Ana(7)](https://github.com/user-attachments/assets/d6dac93d-6a78-4754-8c66-1ab4a4b27d08)
+![image](https://github.com/user-attachments/assets/86b74c45-e2be-4fa7-be72-984e9b319c09)
+
 # Hello, I'm Ankit Negi👋  
 Welcome to my GitHub profile!   
 I'm on a journey to become a Data Analyst specializing in Machine Learning. 🌟  
