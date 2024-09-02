@@ -28,6 +28,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 ## Projects 📚   
 **🛵 [MARKET RESEARCH ANALYSIS](https://github.com/iankitnegi/Tableau_EV_Project)**  
 **Domain**: Automotive   
+**Date**: 08/2024  
 **Description**: Conduct ad hoc market research for AtliQ Motors in the EV/Hybrid Vehicles Industry for data-driven decisions.  
 **Technologies**: Tableau, MS-Excel   
 **Key Features**:  
@@ -36,6 +37,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 **🤯 [EXPLORATORY DATA ANALYSIS](https://github.com/iankitnegi/Python_Projects)**  
 **Domain**: Hospitality  
+**Date**: 07/2024  
 **Description**: Performed data analysis on Hotels dataset using pandas in Python to uncover booking patterns and revenue insights.  
 **Technologies**: Python, Pandas, Numpy  
 **Key Features**:  
@@ -44,6 +46,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 **🖋️ [ADHOC ANALYSIS](https://github.com/iankitnegi/SQL_AdHoc_Analysis_Project)**  
 **Domain**: Cosumer Goods   
+**Date**: 06/2024  
 **Description**: Perform ad hoc analysis for Atliq Hardwares to extract actionable insights for swift, data-driven decision-making by management.    
 **Technologies**: SQL, MySQL, Joins, Subqueries, CTE    
 **Key Features**:   
@@ -52,6 +55,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 **💳 [CREDIT CARD RECOMMENDATION](https://github.com/iankitnegi/PowerBI_Banking_Project)**  
 **Domain**: Banking  
+**Date**: 05/2024  
 **Description**: Developed a comprehensive analysis dashboard using Power BI to visualize usage, identify trends, patterns and uncover insights.  
 **Technologies**: Power BI, Power Query, DAX        
 **Key Features:** 
@@ -60,6 +64,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 **🖱 [SALES & FINANCE REPORT](https://github.com/iankitnegi/Sales-Finance-Analysis-Report)**  
 **Domain**: Sales  
+**Date**: 04/2024  
 **Description**: Created detailed reports using MS-Excel, including Pivot Tables and Power Pivot, to provide monthly and yearly sales comparisons.      
 **Technologies**: MS-Excel, Pivot Table, Power Pivot    
 **Key Features**:  
