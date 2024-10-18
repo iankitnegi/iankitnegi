@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86b74c45-e2be-4fa7-be72-984e9b319c09)
+![1729002755112](https://github.com/user-attachments/assets/f324e3d3-04ce-429b-91b1-0c4776bf412b)
 
 # Hello, I'm Ankit Negi👋  
 Welcome to my GitHub profile!   
