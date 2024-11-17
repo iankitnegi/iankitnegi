@@ -1,4 +1,5 @@
-![1729002755112](https://github.com/user-attachments/assets/f324e3d3-04ce-429b-91b1-0c4776bf412b)
+![Data Ana(1)](https://github.com/user-attachments/assets/494836b2-edf1-462c-8a0a-bd4ba00a1101)
+
 
 # Hello, I'm Ankit Negi👋  
 Welcome to my GitHub profile!   
