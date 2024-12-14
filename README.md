@@ -73,8 +73,8 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 2. Monthly and yearly sales comparisons
 
 **🍕[PIZZA SALES](https://github.com/iankitnegi/SQL_Pizza_Sales_Project)**
-**🧑‍🤝‍🧑[HR ANALYTICS](https://github.com/iankitnegi/HR_Analytics)**  
-**[]
+**🧑‍🤝‍🧑[HR ANALYTICS](https://github.com/iankitnegi/HR_Analytics)**
+**😅[SALES ANALYTICS](https://github.com/iankitnegi/Excel_Sales_Dashboard)**
 
 ## Languages/Tools 🔪  
 <div align="left">
