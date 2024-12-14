@@ -74,6 +74,7 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 **🍕[PIZZA SALES](https://github.com/iankitnegi/SQL_Pizza_Sales_Project)**
 **🧑‍🤝‍🧑[HR ANALYTICS](https://github.com/iankitnegi/HR_Analytics)**  
+**[]
 
 ## Languages/Tools 🔪  
 <div align="left">
